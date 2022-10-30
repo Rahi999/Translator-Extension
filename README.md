@@ -16,7 +16,7 @@
 #### Steps To Follow For Add Extension In Chrome ###
 ### Clone This Repository inside Your Code Editor
 
- 1. git clone https://github.com/praveen021097/word-meaning.git
+ 1. git clone https://github.com/Rahi999/Translator-Extension.git
  2. cd "directory"   // If You Are in Right Directory leave this step and Follow next Step
  3. npm install
  4. npm start // optional.
