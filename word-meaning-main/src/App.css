@@ -1,0 +1,140 @@
+.App {
+  text-align: center;
+
+  background-color: rgba(132, 209, 237, 0.734);
+
+  padding: 30px;
+  border-radius: 8px;
+  margin: 0;
+  
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #3f4041;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.main{
+  text-align: left;
+background-color: #20d7e4;
+
+  color: white;
+  border-radius: 8px;
+  padding: 10px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+.main1{
+  display: flex;
+}
+
+h4{
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 25px;
+  color: rgb(1, 4, 35);
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 20px;
+  color: rgb(33, 33, 33);
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+font-weight:bold;
+  color: rgb(10, 10, 10);
+}
+.search{
+  margin-left: 20px;
+  height: 30px;
+  padding: 5px;
+  border-radius: 30%px;
+  border: 1px solid grey;
+  cursor: pointer;
+  border-radius: 10%;
+
+}
+input{
+  height: 30px;
+  width: 300px;
+  padding: 5px;
+  outline: none;
+  border: 1px solid grey;
+  font-family: 'Poppins', sans-serif; 
+  border-radius: 8px;
+  color: red;
+  font-weight: bold;
+  font-size: 18px;
+
+}
+.div1{
+  justify-content: space-between;
+  border-radius: 5px;
+  /* background-color: #e8ecf6; */
+  padding: 10px;
+  margin-top: 20px;
+}
+.voice{
+  width: 60px;
+  margin-right: 10px;
+  border-radius: 70%;
+  cursor: pointer;
+}
+.div2,.div4{
+  border-radius: 5px;
+  /* background-color: #c3d5f2; */
+  margin-top:10px;
+  padding: 10px;
+}
+
+.div3{
+  border-radius: 5px;
+  background-color: #b8cdf7;
+  margin-top: 10px;
+  padding: 10px;
+}
+.div5{
+  border-radius: 5px;
+  background-color: #f5c9c9;
+  padding: 10px;
+}
+
+.div1:hover{
+  background-color: #526d6d;
+  color: white;
+}.div2:hover{
+  background-color: #31c3c5;
+  color: white;
+}.div3:hover{
+  background-color: #31c3c5;
+  color: white;
+}
+.div4:hover{
+  background-color: #31c3c5;
+  color: white;
+}.div5:hover{
+  background-color: #31c3c5;
+  color: white;
+}
+h4:hover{
+  color: white;
+}

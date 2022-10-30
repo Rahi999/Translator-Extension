@@ -1,0 +1,19 @@
+{
+  "manifest_version":3,
+  "name":"English to Hindi Word Search",
+  "author":"Praveen,Rahim,Raj",
+  "version":"1.0",
+  "description":"search word ",
+  
+  "action":{
+    "default_title":"English to Hindi Word Search",
+    "default_popup":"index.html",
+    "default_icon":{
+      "16":"pk1.png",
+      "32":"pk1.png",
+      "128":"pk1.png"
+    }
+  },
+  "permissions":["tabs"]
+
+}
