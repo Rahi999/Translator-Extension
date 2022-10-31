@@ -10,7 +10,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>NPM</li>
-  <li>GIT</li>
+  <li>GIT.</li>
 </ul>
 <hr />
 #### Steps To Follow For Add Extension In Chrome ###
